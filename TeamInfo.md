@@ -1,4 +1,4 @@
-# team002
+# team075
 
 ## Basic Information
 
@@ -19,10 +19,11 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |       STEAM DREAM      |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
 ## Project Summary
 
-This is a summary of the project!
+We are creating a game recommendation system that uses inputted Steam games a user enjoys and outputs recommendations based on their games. The application will include additional filters such as selecting only free games, selecting games with specific ratings, etc. This application will be targeted toward Steam users and developers who are looking to find new games. 
+
